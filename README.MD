@@ -29,6 +29,7 @@ API Reference
 Getting started guide
 Examples
 Check out the guides
+https://tsoa-community.github.io/docs/getting-started.html
 
 See example controllers in the tests
 
